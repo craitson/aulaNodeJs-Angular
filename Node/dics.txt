@@ -1,0 +1,2 @@
+const = variaveis com valores constantes 'definitivos'.
+let = variaveis que respeitam mais o escopo da funcao.
